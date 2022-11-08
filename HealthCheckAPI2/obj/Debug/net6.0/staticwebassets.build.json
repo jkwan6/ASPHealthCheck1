@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OMMTCHIohH6ruMz08MLnRaxeKWcYDy3SdoMQ3Gna06k=",
+  "Source": "HealthCheckAPI2",
+  "BasePath": "_content/HealthCheckAPI2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
